@@ -100,6 +100,7 @@
     "externalReference": [],
     "globalMetadata": {
       "uhfHeaderId": "office-scripts",
+      "searchScope": ["Office Scripts"],
       "breadcrumb_path": "~/breadcrumb/toc.yml",
       "extendBreadcrumb": true,
       "ms.suite": "office",
